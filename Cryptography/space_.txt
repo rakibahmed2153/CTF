@@ -1,0 +1,72 @@
+Question: 
+
+0 0 0 1	0 0 0 0 1	1	L
+1	L
+0 0 0 0 0 1	0 1	0 1	0 0 L
+1	L
+0 0 0 0 0 1	0 0 0 1	1	0 L
+1	L
+0 0 0 0 0 1	0 1	1	1	1	1	L
+1	L
+0 0 0 0 0 1	0 0 0 0 1	0 L
+1	L
+0 0 0 0 0 1	0 0 0 1	0 0 L
+1	L
+0 0 0 0 0 1	1	1	1	0 1	1	L
+1	L
+0 0 0 0 0 1	1	1	0 0 1	1	L
+1	L
+0 0 0 0 0 1	1	1	0 0 0 0 L
+1	L
+0 0 0 0 0 1	1	0 0 0 0 1	L
+1	L
+0 0 0 0 0 1	1	0 0 0 1	1	L
+1	L
+0 0 0 0 0 1	1	0 0 1	0 1	L
+1	L
+0 0 0 0 0 1	0 1	1	1	1	1	L
+1	L
+0 0 0 0 0 1	1	1	0 1	1	1	L
+1	L
+0 0 0 0 0 1	1	0 0 0 0 1	L
+1	L
+0 0 0 0 0 1	1	1	0 0 1	1	L
+1	L
+0 0 0 0 0 1	0 1	1	1	1	1	L
+1	L
+0 0 0 0 0 1	1	0 0 1	1	0 L
+1	L
+0 0 0 0 0 1	1	1	0 1	0 1	L
+1	L
+0 0 0 0 0 1	1	0 1	1	1	0 L
+1	L
+0 0 0 0 0 1	1	0 1	1	1	0 L
+1	L
+0 0 0 0 0 1	1	1	1	0 0 1	L
+1	L
+0 0 0 0 0 1	0 1	1	1	1	1	L
+1	L
+0 0 0 0 0 1	1	1	0 1	0 0 L
+1	L
+0 0 0 0 0 1	1	0 1	0 0 0 L
+1	L
+0 0 0 0 0 1	1	0 1	1	1	1	L
+1	L
+0 0 0 0 0 1	1	1	0 1	0 1	L
+1	L
+0 0 0 0 0 1	1	0 0 1	1	1	L
+1	L
+0 0 0 0 0 1	1	0 1	0 0 0 L
+1	L
+0 0 0 0 0 1	1	1	1	1	0 1	L
+1	L
+0 0 L
+L
+L
+
+
+Use Chiper analizer and found ot is a whitespace language. then use whitespace decoder to decode the chiper.
+
+Chiper Decoder Url ~ https://www.dcode.fr/whitespace-language
+
+Currect Ans ~ CTF_BD{space_was_funny_though}
