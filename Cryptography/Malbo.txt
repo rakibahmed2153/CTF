@@ -1,0 +1,9 @@
+Question: Malbo
+
+D'`_$L\n~|Xj2x0wets1NqM'K%H#i4hVBTdbb`|*)(xwYutslqpi/gOedibaf_%cbDC_^W\Uy<;WPt7MRQJnHMLKJIBfF(>C<;:9]7};:3W76v.3,P0/o-,%I)i'~%|#"y?w|u;y[qvotsrk1ihgfejib(fH^]b[Z~^@\[ZSwQPUTMLpP2Hl/EiIHGF?cCB$#?>=6Z4z216543,P0/.n,+$Hih~}$#z@a}v{t:xZpo5srkSi/Pfkjiba'edFEaZ~^]VUyYXWVONMqQPONMLEiI+*F?>bB$@?>=6Z4381U54t,1*)Mnm%*#"F&%e#z!~}|ut:[q7$
+
+Chiper name is Malbo so its something related to malbo. There is a decode call Malbolge Interpreter. User that online tool and get the flag.
+
+Chiper Link ~ https://malbolge.doleczek.pl/
+
+Currect Ans ~ CTF_BD{M4lB0lg3_Is_Aw3S0M3_Int3rPr3T3R}
