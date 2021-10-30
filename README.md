@@ -9,4 +9,3 @@ Categories:
 5. Oshint
 6. Forencis
 7. Binary / Reverse
-8. Warmup
