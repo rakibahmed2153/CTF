@@ -1,0 +1,11 @@
+Question: Salty
+
+{r 1% ^5 =s F% r` R` T] 1y VR G@ Dl Z` 0< ne LU G. Rg ?0 Gz Z$ /5 _2 gB ]f 3U QU 4I JJ Ou z* Uw o{ u2 8N Pd t$ ]H QG
+
+the key is NaCl
+
+As fer the question title is salty, its a salty chiper. Find out the salty chiper decorder and get the flag.
+
+Chiper Decoder online ~ https://neatnik.net/salty/
+
+Currect Answer ~ CTF_BD{S4lty_but_Sw33t}
