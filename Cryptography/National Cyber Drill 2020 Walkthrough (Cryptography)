@@ -1,0 +1,139 @@
+Office Link ~ https://cyberbangla.org/national-cyber-drill-2020-walkthrough-cryptography/
+
+Cryptography
+1. Crypto 000: 25
+A message broadcasted about some instruction of a secret group. Unfortunately, the message was encrypted. Can you try to decrypt the message?{HVXIVG}
+Think you got the things which are totally opposite what you want.
+
+The format of this flag is CYBERDRILL{flag}
+
+Ans:
+
+After watching the cipher I thought it was a Caesar cipher because it’s only text so if shifting the text might get the flag. But I was wrong I tried but didn’t get the flag. Then I tried Alphabetical substitution its also like Caesar cipher and I successfully got the flag.
+
+
+
+flag ~ CYBERDRILL{SECRET}
+
+================================
+
+2. Crypto 001: 25
+Can you decode the following string d2hvX24zM2RzX3A0c3N3MHJkc18zOGRqMzY=from base64 format to ASCII?
+
+The format of this flag is CYBERDRILL2020{flag}
+
+Ans:
+
+In the question, hints were given to decode the code base64 to ASCII. So I used CyberChef online tool and its auto decode the cipher.
+
+
+
+Flag ~ CYBERDRILL2020{who_n33ds_p4ssw0rds_38dj36}
+
+==================================
+
+3. Crypto 002: 50
+Leonel Messi had been sponsored as Brand Ambassador for Adidas From 2006. After the Football World Cup 2018, Adidas sent an encrypted message to Messi. The message was OW_DGNW_QGM_DWG . Messi try to decrypt the message but cannot succeeded. Can you please help him to get the secret?
+
+The starting year is very important for Messi!
+
+The format of this flag is CYBERDRILL{flag}
+
+Ans:
+
+After watching the cipher I thought it was a Caesar cipher because it’s only text so if shifting the text might get the flag. So I started trying and I got the flag at shift 18.
+
+
+
+Flag ~ CYBERDRILL{WE_LOVE_YOU_LEO}
+
+=====================================
+
+4. Crypto 003: 50
+We detect one password protected web based backdoor shell in one of our Linux server. Can you help us for find out the related login password for this backdoor ?
+
+The format of this flag is DRILL2020{flag}
+
+Ans:
+
+After downloading the file I found that it’s a PHP shell. In this shell, the hacker used a backdoor code to bypass the login and can have access to the site. We used a password to log in to a site and that password is stored in a database but in the code, the hacker used a written password that the password didn’t get from the database hacker can easily use that password and log in to the site without having it the id and password. He created the backdoor. so in the file, you can easily see the code written password. And In the test same code was written multiple times to create confusion.
+
+
+
+Flag ~ DRILL2020{866fd58d77526c1bda8771b5b21d5b11}
+
+==================================
+
+5. Is cipher always hide the message! : 100
+You received a secret message KAUHRBSIYRNYEIJK from your friend with the key “CYBERDRILL”. You can use the Vegenere table to solve the puzzle.
+
+The format of this flag is CYBERDRILL{flag}
+
+Ans:
+
+In the Question, A hint was given that Vegenere table to solve the puzzle. And there is a lot of online tools to decode Vegenere cipher. Here key and cipher are both given. So I was used cryptii online tool to decode the cipher.
+
+
+
+Flag~ CYBERDRILL{ICTDAYBANGLADESH}
+
+==================================
+
+6. Stage coach were only medium for post delivery. : 150
+This is a password protected zipped file consisting confidential message for national security. Only known part is, inside the image, there is a hidden secret. Crack the secret. Image name may help you to decode the image. The format of this flag is CYBERDRILL{flag}
+
+The format of this flag is CYBERDRILL{flag}
+
+Ans:
+
+I couldn’t solve this Question.
+
+===================================
+
+7. The most powerfull algorithm used in Star War. : 200
+Find the hidden message from this text: mcikg jnxko vbgnp ksi This may help you M3-B-III-1,17,12-AAA
+
+The format of this flag is CYBERDRILL{flag}
+
+Ans:
+
+A hint was given that star war. After that, I search on google war cipher and I got a cipher name that was Enigma machine cipher.
+
+
+
+Then I Go to cryptii website and found that an Enigma machine and its some functions are matched with the question formate.
+
+
+
+So I have matched the format and got a plain text need to do some modification on it to make it readable and that was the flag.
+
+
+
+Flag~ CYBERDRILL{cirtdrillisawesome}
+
+===================================
+
+8. Encryption always enhance the Security. : 200
+This is an image including hidden message. Your task is try to find out the secret message.
+
+The format of this flag is SEC{flag}
+
+Ans:
+
+I couldn’t solve this Question.
+
+===================================
+
+======================================
+
+Link For All Question ~ http://13.92.58.29/CyberDrill/Cyber_Drill_2020/
+
+Regards,
+
+Rakib Ahmed Riad
+
+General member of  Cyber Bangla
+
+If any queries and suggestions feel free to contact:
+
+Email ~ rakibahmed412245@gmail.com
