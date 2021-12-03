@@ -1,0 +1,86 @@
+Official Link ~ https://cyberbangla.org/national-cyber-drill-2020-walkthrough-basic/
+
+Basic:
+1. Who are you? : 25
+Find the flag from this file? The format of this flag is CIRT{flag}
+
+Ans:
+
+There is a file attached, it can be downloaded or opened in a tab.
+
+When I click on the file I find a first.sh file. And a lot of text is written there.
+
+
+
+If check properly I saw the same text is written many times and made the file so big. I had scrolled down and at the end, I got a plain text. You can also find it by tying the flag format in the search option.
+
+
+
+So it was the flag for this question.
+
+Flag: CIRT{This_only_can_done_by_a_stupid_script_writer}
+
+======================================================
+
+ 2. GREP has some power to search! : 25
+Can you find the flag in file? The format of this flag is CYBERDRILL{flag}
+
+Ans:
+
+If read the question carefully there is a hint of GREP. GREP is a Linux command to search for something from a huge text.
+
+First I have downloaded the file and open it. After that, I got a huge text.
+
+
+
+There is a hint of grep so I try with flag format to find something in this text. And I was successfully grabbed the flag.
+
+
+
+Flag:  CIRT{grep_and_you_will_find_the_flag}
+
+======================================================
+
+3. Easy TAsk! : 50
+Find the flag from this file? The format of this flag is CYBERDRILL{flag}
+
+Ans:
+
+First I have downloaded the file and got an executable file called strings. Though it is an executable file first I gave the file full permission and try to execute but it’s not working. Then I have noticed that the file name strings. Then I have used the Linux strings command and strings the strings file and got a huge text it’s tough to find a flag from the huge strings then I used the grep command and flag formate to find the flag and  I successfully got the flag.
+
+
+
+
+
+Flag:  CYBERDRILL{sTrIngS_sAveS_Time_AlWays}
+
+======================================================
+
+4. Find the CVE : 50
+The password provided to unzip this VM. You are requested to find the CVE number of this password. 6bf1839a7e72a92a2bb18fbedf1873e4892b00ea4b122e48ae80fac5048db1a7The format of this flag is CYBERDRILL{XXXX-XXXX}
+
+Ans:
+
+CVE its full meaning is Common Vulnerabilities and Exposures is a list of publicly disclosed computer security flaws. So in question, a password give and asked to find the CVE number. As they know the meaning of CVE I direct search the password in google and found a virus named “WannaCry”.
+
+
+
+Then I search for the WannaCry CVE number and I got the CVE number that was needed for the flag.
+
+
+
+Flag:  CYBERDRILL{2017-0143}
+
+======================================
+
+Link For All Question ~ http://13.92.58.29/CyberDrill/Cyber_Drill_2020/
+
+Regards,
+
+Rakib Ahmed Riad
+
+General member of  Cyber Bangla
+
+If any queries and suggestions feel free to contact:
+
+Email ~ rakibahmed412245@gmail.com
